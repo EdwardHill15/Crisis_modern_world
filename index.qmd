@@ -28,7 +28,7 @@ nocite: |
   @*
 ---
 
-![Source: https://www.canva.com/ai-image-generator/](Isolation.png)
+![Source: created by Edward F. Hillenaar with https://www.canva.com/ai-image-generator/](Isolation.png)
 
 ## **Introduction**
 
